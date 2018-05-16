@@ -1,0 +1,425 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"file",
+				"file_ext"
+			],
+			[
+				"user",
+				"userUpdated"
+			],
+			[
+				"fin",
+				"findByIdAndUpdate"
+			],
+			[
+				"md_",
+				"md_upload"
+			],
+			[
+				"au",
+				"authorization"
+			],
+			[
+				"b",
+				"bcrypt"
+			],
+			[
+				"Son",
+				"SongSchema"
+			],
+			[
+				"s",
+				"Schema"
+			],
+			[
+				"al",
+				"AlbumSchema"
+			],
+			[
+				"Ar",
+				"ArtistSchema"
+			],
+			[
+				"Us",
+				"UserSchema"
+			],
+			[
+				"bor",
+				"BorrarColores"
+			],
+			[
+				"color",
+				"BorrarColores"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"type",
+				"list-style-type"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"tex",
+				"textomayuscula"
+			],
+			[
+				"con",
+				"confirmar"
+			],
+			[
+				"po",
+				"prompt"
+			],
+			[
+				"a",
+				"alert"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"pro",
+				"prompt"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "controllers/user.js",
+			"settings":
+			{
+				"buffer_size": 3461,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Kuruma/Desktop/Alexis/cosas alexis/Web/css/style.css",
+			"settings":
+			{
+				"buffer_size": 409,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Kuruma/Desktop/Alexis/cosas alexis/Web/index.html",
+			"settings":
+			{
+				"buffer_size": 1989,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "INSTALL PACK",
+		"selected_items":
+		[
+			[
+				"INSTALL PACK",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTALL ",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"htm",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"",
+				"HTML: Encode Special Characters"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/www/mean2",
+		"/C/xampp/htdocs/www/mean2/controllers",
+		"/C/xampp/htdocs/www/mean2/middlewares",
+		"/C/xampp/htdocs/www/mean2/models",
+		"/C/xampp/htdocs/www/mean2/service"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/www/mean2/service/jwt.js",
+		"/C/Users/Kuruma/AppData/Roaming/Sublime Text 3/Packages/Pretty JSON/README.md",
+		"/C/xampp/htdocs/www/mean2/models/user.js",
+		"/C/xampp/htdocs/www/mean2/app.js",
+		"/C/xampp/htdocs/www/mean2/routes/user.js",
+		"/C/xampp/htdocs/www/mean2/todolist",
+		"/C/xampp/htdocs/www/mean2/middlewares/authenticated.js",
+		"/C/xampp/htdocs/www/mean2/middlewares/authenticate.js",
+		"/C/xampp/htdocs/www/mean2/index.js",
+		"/C/Users/Kuruma/Desktop/web iniciación/index.html",
+		"/C/xampp/htdocs/www/mean2/models/song.js",
+		"/C/Users/Kuruma/Desktop/letsbonus.html",
+		"/C/xampp/htdocs/www/mean2/models/artist.js",
+		"/C/xampp/htdocs/www/mean2/models/album.js",
+		"/C/xampp/htdocs/www/mean2/package.json",
+		"/C/xampp/htdocs/www/mean2/controllers/user.js",
+		"/C/xampp/htdocs/www/mean2/controlers/user.js",
+		"/C/cygwin64/home/Kuruma/.bash_profile",
+		"/C/Users/Kuruma/Desktop/web iniciación/js/main.js",
+		"/C/Users/Kuruma/Desktop/vanir landing page/index.html",
+		"/C/Users/Kuruma/Desktop/web iniciación/css/main.css",
+		"/C/Users/Kuruma/Desktop/lets1.htm",
+		"/C/Users/Kuruma/Dropbox/Aprendizaje HTML/Nueva web/css/normalize.css",
+		"/C/Users/Kuruma/Dropbox/Aprendizaje HTML/Nueva web/index.html",
+		"/C/Users/Kuruma/Dropbox/Aprendizaje HTML/Nueva web/css/master.css",
+		"/C/Users/Kuruma/Desktop/web iniciación/css/web.css",
+		"/C/Users/Kuruma/Desktop/web iniciación/index2.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"una"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "controllers/user.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3461,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3461,
+								3461
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2673.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Kuruma/Desktop/Alexis/cosas alexis/Web/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 409,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								333,
+								333
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 265.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Kuruma/Desktop/Alexis/cosas alexis/Web/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1989,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1124,
+								1124
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mean2.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 319.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
