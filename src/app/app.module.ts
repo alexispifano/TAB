@@ -4,12 +4,14 @@ import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
-import { FechaactualComponent } from './fechaactual/fechaactual.component'
+import { FechaactualComponent } from './fechaactual/fechaactual.component';
+import { CopyrightComponent } from './copyright/copyright.component'
 
 @NgModule({
   declarations: [
     AppComponent,
-    FechaactualComponent
+    FechaactualComponent,
+    CopyrightComponent
   ],
   imports: [
     BrowserModule,
