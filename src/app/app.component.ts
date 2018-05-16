@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css'] //Es un array, puedes meter más estilos css aunque en casi todos los casos es recomendado solo poner el por defecto
 })
 export class AppComponent {
-  title = 'Tab';
+  destino:string = 'Universo';
 }
