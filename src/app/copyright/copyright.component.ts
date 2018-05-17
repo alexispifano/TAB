@@ -6,7 +6,8 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./copyright.component.css']
 })
 export class CopyrightComponent implements OnInit {
-  copyright:string = "Todos los derechos reservado TheAkarisBox"
+  copyright:string = "Todos los derechos reservado TAB"
+  empresa:string= "The Akaris Box";
   hoy:any = new Date();
   constructor() { }
 
